@@ -1,4 +1,11 @@
-## Hi there 👋
+Meu nome é Júlia Alves do Prado
+
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Você pode entrar em contato comigo 📫
+
+
+@alurastartestudante
 
 <!--
 **alveslia/alveslia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
